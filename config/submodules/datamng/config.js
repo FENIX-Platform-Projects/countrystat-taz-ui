@@ -27,6 +27,11 @@ define(['jquery', 'fx-submodules/config/baseConfig'],
             lang: "EN"
         };
 
+        cfg.SECONDARY_MENU = {
+            url: './submodules/fenix-ui-data-management/config/secondary_menu.json',
+            disable: ['delete', 'close', 'data', 'dsd']
+        };
+
         cfg.SITE_TEMPLATE = 'topmenu';
 
 

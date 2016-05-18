@@ -46,3 +46,6 @@
 [submodule "submodules/fenix-ui-metadata-viewer"]
 	path = submodules/fenix-ui-metadata-viewer
 	url = https://github.com/FENIX-Platform/fenix-ui-metadata-viewer.git
+[submodule "submodules/fenix-ui-datamanagement-commons"]
+	path = submodules/fenix-ui-datamanagement-commons
+	url = https://github.com/FENIX-Platform/fenix-ui-datamanagement-commons.git
